@@ -18,9 +18,6 @@ build/
 dist/
 *.egg-info/
 
-# Downloaded speech models
-/models/
-
 # Local configuration and credentials
 .env
 .env.*
